@@ -1,36 +1,29 @@
-from jinja2 import Environment, FileSystemLoader
-
-ENVIRONMENT = Environment(
-    loader=FileSystemLoader('./')
-)
-
-template = _jinja_env.from_string('''
 <!DOCTYPE html>
-<html lang="en"> 
+<html lang="en">
 <head>
     <title>Pillar - Bootstrap 4 Resume/CV Template for Developers</title>
-    
+
     <!-- Meta -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Responsive Resume Template">
-    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
-    <link rel="shortcut icon" href="favicon.ico"> 
-    
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">
+    <link rel="shortcut icon" href="favicon.ico">
+
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
-    
+
     <!-- FontAwesome JS-->
     <script defer src="https://use.fontawesome.com/releases/v5.1.1/js/all.js" integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a" crossorigin="anonymous"></script>
-       
-    <!-- Theme CSS -->  
+
+    <!-- Theme CSS -->
     <link id="theme-style" rel="stylesheet" href="assets/css/pillar-1.css">
 
 
-</head> 
+</head>
 
-<body>	
+<body>
 
     <article class="resume-wrapper text-center position-relative">
 	    <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
@@ -54,7 +47,7 @@ template = _jinja_env.from_string('''
 				                <li><a href="#"><span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>yourwebsite.com</a></li>
 						    </ul>
 					    </div><!--//secondary-info-->
-					    
+
 				    </div><!--//media-body-->
 			    </div><!--//media-->
 		    </header>
@@ -72,7 +65,7 @@ template = _jinja_env.from_string('''
 						    <div class="resume-section-content">
 							    <div class="resume-timeline position-relative">
 								    <article class="resume-timeline-item position-relative pb-5">
-									    
+
 									    <div class="resume-timeline-item-header mb-2">
 										    <div class="d-flex flex-column flex-md-row">
 										        <h3 class="resume-position-title font-weight-bold mb-1">Lead Developer</h3>
@@ -102,9 +95,9 @@ template = _jinja_env.from_string('''
 									    </div><!--//resume-timeline-item-desc-->
 
 								    </article><!--//resume-timeline-item-->
-								    
+
 								    <article class="resume-timeline-item position-relative pb-5">
-									    
+
 									    <div class="resume-timeline-item-header mb-2">
 										    <div class="d-flex flex-column flex-md-row">
 										        <h3 class="resume-position-title font-weight-bold mb-1">Senior Software Developer</h3>
@@ -128,9 +121,9 @@ template = _jinja_env.from_string('''
 									    </div><!--//resume-timeline-item-desc-->
 
 								    </article><!--//resume-timeline-item-->
-								    
+
 								    <article class="resume-timeline-item position-relative pb-5">
-									    
+
 									    <div class="resume-timeline-item-header mb-2">
 										    <div class="d-flex flex-column flex-md-row">
 										        <h3 class="resume-position-title font-weight-bold mb-1">Co-Founder & Lead Developer</h3>
@@ -152,9 +145,9 @@ template = _jinja_env.from_string('''
 									    </div><!--//resume-timeline-item-desc-->
 
 								    </article><!--//resume-timeline-item-->
-								    
+
 								    <article class="resume-timeline-item position-relative">
-									    
+
 									    <div class="resume-timeline-item-header mb-2">
 										    <div class="d-flex flex-column flex-md-row">
 										        <h3 class="resume-position-title font-weight-bold mb-1">Web Developer <small class="text-muted">(Intern)</small></h3>
@@ -174,15 +167,15 @@ template = _jinja_env.from_string('''
 									    </div><!--//resume-timeline-item-desc-->
 
 								    </article><!--//resume-timeline-item-->
-								    
-								    
+
+
 							    </div><!--//resume-timeline-->
-							    
-							    
-							    
-							    
-							    
-							    
+
+
+
+
+
+
 						    </div>
 					    </section><!--//experience-section-->
 				    </div>
@@ -211,7 +204,7 @@ template = _jinja_env.from_string('''
 											    <div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
-								        
+
 								        <li class="mb-2">
 								            <div class="resume-skill-name">Node.js</div>
 									        <div class="progress resume-progress">
@@ -226,7 +219,7 @@ template = _jinja_env.from_string('''
 								        </li>
 							        </ul>
 						        </div><!--//resume-skill-item-->
-						        
+
 						        <div class="resume-skill-item">
 						            <h4 class="resume-skills-cat font-weight-bold">Backend</h4>
 							        <ul class="list-unstyled">
@@ -256,7 +249,7 @@ template = _jinja_env.from_string('''
 								        </li>
 							        </ul>
 						        </div><!--//resume-skill-item-->
-						        
+
 						        <div class="resume-skill-item">
 						            <h4 class="resume-skills-cat font-weight-bold">Others</h4>
 						            <ul class="list-inline">
@@ -327,27 +320,22 @@ template = _jinja_env.from_string('''
 							    </ul>
 						    </div>
 					    </section><!--//interests-section-->
-					    
+
 				    </div>
 			    </div><!--//row-->
 		    </div><!--//resume-body-->
-		    
-		    
-	    </div>
-    </article>  
 
-    
+
+	    </div>
+    </article>
+
+
     <footer class="footer text-center pt-2 pb-5">
 	     <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
                 <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
     </footer>
 
-    
+
 
 </body>
-</html> 
-''')
-
-with open("index.html", "w") as html:
-    output = ENVIRONMENT.get_template('template.html').render()
-    html.write(output)
+</html>

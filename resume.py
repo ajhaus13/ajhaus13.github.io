@@ -1,9 +1,10 @@
 from jinja2 import Environment, FileSystemLoader
+import yaml
 
 ENVIRONMENT = Environment(
     loader=FileSystemLoader('./')
 )
 
 with open("index.html", "w") as html:
-    output = ENVIRONMENT.get_template('template.html').render()
+    output = ENVIRONMENT.get_template('template.html').render(yaml.load(open('configs.yml')))
     html.write(output)

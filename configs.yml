@@ -4,3 +4,19 @@ email: "ajhauser13@gmail.com"
 phone: "(214) 205-6759"
 linkedin: "https://www.linkedin.com/in/josh-hauser/"
 git: "https://github.com/ajhaus13"
+
+jobs:
+  - title: "Data Engineer"
+    company: "Talroo"
+    description: "Placeholder"
+    accomplishments:
+      - description: "Test"
+        description: "Test"
+  - title: "Data Analyst/Tech Coordinator"
+    company: "Northwestern Mutual"
+    description: "Placeholder"
+    accomplishments:
+      - description: "Test"
+        description: "Test"
+
+skills:

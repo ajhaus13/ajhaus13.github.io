@@ -11,12 +11,12 @@ jobs:
     description: "Placeholder"
     accomplishments:
       - description: "Test"
-        description: "Test"
+      - description: "Test"
   - title: "Data Analyst/Tech Coordinator"
     company: "Northwestern Mutual"
     description: "Placeholder"
     accomplishments:
       - description: "Test"
-        description: "Test"
+      - description: "Test"
 
 skills:

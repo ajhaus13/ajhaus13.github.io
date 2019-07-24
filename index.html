@@ -1,8 +1,4 @@
-from jinja2 import Environment, BaseLoader
 
-_jinja_env = Environment(loader=BaseLoader())
-
-template = _jinja_env.from_string('''
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
@@ -344,7 +340,3 @@ template = _jinja_env.from_string('''
 
 </body>
 </html> 
-''')
-
-with open("index.html", "w") as html:
-    html.write(template.render())

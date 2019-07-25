@@ -59,8 +59,10 @@ jobs:
     description: "Responsible for managing a team of domestic and international technicians. Provided both technical and statistical support to increase profitability."
     duration: "Jan 2014 - May 2015"
     accomplishments:
-      - "Test"
-      - "Test"
+      - "Implemented a regional pricing elasticity program, which increased both contractor and company profits by up to 300%."
+      - "Utilized data management software to analyze customer demand and pricing structures for sales promotions, increasing sales by up to 90% over two-week periods."
+      - "Responsible for building out setting up department infrastructure and running cost/benefit analyses for potential department changes."
+      - "Calculated and delivered market specific analyses to contractors, which produced the highest regional growth rate, increasing regional sales by 145% (compared to a 74% average for other Regional Managers) in just 9 months and increasing month over month revenue by over $85,000."
     technologies:
       - "Tableau"
       - "HTML/CSS"

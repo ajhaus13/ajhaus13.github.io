@@ -32,17 +32,17 @@
 				    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/profile.jpg" alt="">
 				    <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
 					    <div class="primary-info">
-						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">{{ name }}</h1>
-						    <div class="title mb-3">{{ title }}</div>
+						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">{{ personal.name }}</h1>
+						    <div class="title mb-3">{{ personal.title }}</div>
 						    <ul class="list-unstyled">
-							    <li class="mb-2"><a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>{{ email }}</a></li>
-							    <li><a href="#"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ phone }}</a></li>
+							    <li class="mb-2"><a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>{{ personal.email }}</a></li>
+							    <li><a href="#"><i class="fas fa-mobile-alt fa-fw mr-2" data-fa-transform="grow-6"></i>{{ personal.phone }}</a></li>
 						    </ul>
 					    </div><!--//primary-info-->
 					    <div class="secondary-info ml-md-auto mt-2">
 						    <ul class="resume-social list-unstyled">
-				                <li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>{{ linkedin }}</a></li>
-				                <li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>{{ git }}</a></li>
+				                <li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span>{{ personal.linkedin }}</a></li>
+				                <li class="mb-3"><a href="#"><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span>{{ personal.git }}</a></li>
 						    </ul>
 					    </div><!--//secondary-info-->
 
@@ -71,24 +71,21 @@
 										        <h3 class="resume-position-title font-weight-bold mb-1">{{ job.title }}</h3>
 										        <div class="resume-company-name ml-auto">{{ job.company }}</div>
 										    </div><!--//row-->
-										    <div class="resume-position-time">2018 - Present</div>
+										    <div class="resume-position-time">{{ job.duration }}</div>
 									    </div><!--//resume-timeline-item-header-->
 									    <div class="resume-timeline-item-desc">
 										    <p>{{ job.description }}</p>
 										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Achievements:</h4>
 										    <ul>
 												{% for point in job.accomplishments %}
-											    <li>{{ point.description }}</li>
+											    <li>{{ point }}</li>
 												{% endfor %}
 										    </ul>
 										    <h4 class="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
 										    <ul class="list-inline">
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Angular</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Python</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">jQuery</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">Webpack</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML/SASS</span></li>
-											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">PostgresSQL</span></li>
+												{% for tech in job.technologies %}
+											    <li class="list-inline-item"><span class="badge badge-primary badge-pill">{{ tech }}</span></li>
+												{% endfor %}
 										    </ul>
 									    </div><!--//resume-timeline-item-desc-->
 								    </article><!--//resume-timeline-item-->

@@ -1,22 +1,67 @@
-name: "Josh Hauser"
-title: "Data Engineer"
-email: "ajhauser13@gmail.com"
-phone: "(214) 205-6759"
-linkedin: "https://www.linkedin.com/in/josh-hauser/"
-git: "https://github.com/ajhaus13"
+personal:
+  name: "Josh Hauser"
+  title: "Data Engineer"
+  email: "ajhauser13@gmail.com"
+  phone: "(214) 205-6759"
+  linkedin: "https://www.linkedin.com/in/josh-hauser/"
+  git: "https://github.com/ajhaus13"
 
 jobs:
   - title: "Data Engineer"
     company: "Talroo"
-    description: "Placeholder"
+    description: "Responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
+    duration: "Nov 2018 - Present"
     accomplishments:
-      - description: "Test"
-      - description: "Test"
-  - title: "Data Analyst/Tech Coordinator"
+      - "Test"
+      - "Test"
+    technologies:
+      - "Python"
+      - "Pyspark"
+      - "Amazon Web Service Products"
+      - "Ansible"
+      - "Django"
+      - "Jinja"
+  - title: "Technical Lead & Associate Developer"
+    company: "Talroo"
+    description: "•	Responsible for data aggregation, data analysis and A/B testing and monitoring for CEO, CFO, officers and product managers while learning and transitioning over to an engineering team."
+    duration: "Oct 2017 - Nov 2018"
+    accomplishments:
+      - "Test"
+      - "Test"
+    technologies:
+      - "Python"
+      - "PySpark"
+      - "mySQL"
+      - "Command Line"
+  - title: "Technical Analyst"
+    company: "Talroo"
+    description: "Responsible for providing technical support to all data analysts. This included building out a reporting platform and working directly with the engineers to fix issues."
+    duration: "Jan 2017 - Oct 2017"
+    accomplishments:
+      - "Test"
+      - "Test"
+    technologies:
+      - "Metabase"
+      - "mySQL"
+      - "Command Line"
+  - title: "Data Analyst & Technical Coordinator"
     company: "Northwestern Mutual"
-    description: "Placeholder"
+    description: "Responsible for creating holistic financial plans for all types of individuals using multiple products (investments, insurance, annuities, etc.)."
+    duration: "Jan 2016 - Sep 2016"
     accomplishments:
-      - description: "Test"
-      - description: "Test"
-
-skills:
+      - "Test"
+      - "Test"
+    technologies:
+      - "MorningStar"
+      - "Microsoft Office"
+  - title: "Data Analyst & International Regional Manager"
+    company: "iCracked Inc."
+    description: "Responsible for managing a team of domestic and international technicians. Provided both technical and statistical support to increase profitability."
+    duration: "Jan 2014 - May 2015"
+    accomplishments:
+      - "Test"
+      - "Test"
+    technologies:
+      - "Tableau"
+      - "HTML/CSS"
+      - "Microsoft Office"

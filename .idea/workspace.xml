@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7428989e-0770-465a-9cb0-331526b42468" name="Default" comment="" />
+    <list default="true" id="7428989e-0770-465a-9cb0-331526b42468" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/configs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +18,8 @@
           <file leaf-file-name="configs.yml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/configs.yml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="290">
-                  <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+                <state relative-caret-position="270">
+                  <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -59,8 +61,8 @@
           <file leaf-file-name="template.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/template.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="131" column="102" lean-forward="true" selection-start-line="131" selection-start-column="102" selection-end-line="131" selection-end-column="102" />
+                <state relative-caret-position="97">
+                  <caret line="109" column="50" lean-forward="true" selection-start-line="109" selection-start-column="50" selection-end-line="109" selection-end-column="50" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -241,8 +243,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/configs.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="270">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>

@@ -67,3 +67,40 @@ jobs:
       - "Tableau"
       - "HTML/CSS"
       - "Microsoft Office"
+
+skills:
+  - name: "Python"
+    percent: "100"
+  - name: "PySpark"
+    percent: "100"
+  - name: "SQL"
+    percent: "100"
+  - name: "AWS"
+    percent: "80"
+  - name: "Django/Jinja"
+    percent: "70"
+  - name: "Ansible"
+    percent: "60"
+  - name: "HTML"
+    percent: "50"
+
+others:
+  - "Data Analysis"
+  - "Microsoft Office"
+  - "Tableau"
+
+certs:
+  - name: "Series 7"
+    desc: "FINRA Certified"
+  - name: "4 year academic and athletic scholarship"
+    desc: "Football and Baseball"
+  - name: "National Hampshire Honor Society"
+    desc: "Award for excelling in academics and football"
+  - name: "Patriot League Honor Roll"
+    desc: "5 time member"
+  - name: "Dean’s List"
+    desc: "For excelling in academics"
+
+interests:
+  - "Guitar"
+  - "Piano"

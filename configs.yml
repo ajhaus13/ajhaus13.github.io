@@ -49,8 +49,9 @@ jobs:
     description: "Responsible for creating holistic financial plans for all types of individuals using multiple products (investments, insurance, annuities, etc.)."
     duration: "Jan 2016 - Sep 2016"
     accomplishments:
-      - "Test"
-      - "Test"
+      - "Analyzed and improved the investment accounts of all clients assessing if their current allocation aligned with their investment and retirement goals (using Morningstar)"
+      - "Managed and assessed all client case work options based on their financial portfolio for CEO"
+      - "Provided real-time technological support, including; system administration, setting up employees on all NM platforms, launching new software/techniques, network support, troubleshooting, etc."
     technologies:
       - "MorningStar"
       - "Microsoft Office"

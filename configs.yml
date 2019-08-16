@@ -13,9 +13,10 @@ jobs:
     description: "Responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
     accomplishments:
-      - "Used Make, Databricks and GIT to create a version history repository for Databricks ETL jobs"
-      - "Used AWS products (Lambda, SES, Cloudwatch, SNS) to create automatic and dynamic system alarms for the company."
-      - "Used AWS products (s3, IAM, DynamoDB) to help build company profiling system and to feed behavior data to the behavior model"
+      - "Created a version history repository for Databricks ETL jobs using Ansible, GIT, and Databricks."
+      - "Created automatic and dynamic system alarms for the engineering department using AWS products (Lambda, SES, Cloudwatch, SNS)."
+      - "Helped maintain the production data warehouse"
+      - "Helped build company profiling system and to aggregate behavior data by using AWS products (s3, IAM, DynamoDB)."
       - "Helped with automating much of the company's infrastructure using Cloudformation."
     technologies:
       - "Python"

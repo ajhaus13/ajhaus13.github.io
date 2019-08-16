@@ -155,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.resume">
     <configuration name="resume" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ajhaus13.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,8 +198,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.resume" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>

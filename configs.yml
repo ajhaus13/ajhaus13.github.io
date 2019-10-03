@@ -13,6 +13,7 @@ jobs:
     description: "Responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
     accomplishments:
+      - "Built a front-end UI for user management and API calls using Javascript, React, Redux, HTML and CSS."
       - "Created a version history repository for Databricks ETL jobs using Ansible, GIT, and Databricks."
       - "Created automatic and dynamic system alarms for the engineering department using AWS products (Lambda, SES, Cloudwatch, SNS)."
       - "Helped maintain the production data warehouse"

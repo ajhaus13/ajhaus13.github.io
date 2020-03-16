@@ -10,7 +10,7 @@ personal:
 jobs:
   - title: "Full Stack Engineer"
     company: "Talroo"
-    description: "Responsible for maintaining company's data warehouse and creating and maintaining internal and external UIs. Also responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
+    description: "Responsible for maintaining company's data warehouse and creating and maintaining internal and external UIs and websites. Also responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
     accomplishments:
       - "Engineer responsible for maintaining Talroo's data warehouse, from raw data ETLs all the way to internal and external reporting."

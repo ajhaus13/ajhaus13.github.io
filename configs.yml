@@ -1,7 +1,7 @@
 personal:
   name: "Josh Hauser"
   title: "Full Stack Engineer"
-  summary: "Data Analyst turned Data Engineer. I enjoy working with large amounts of data and spend most of my time working on ETLs and AWS infrastructure using Python, multiple AWS products, Spark and Ansible."
+  summary: "Data Analyst turned Engineer. I enjoy working with large amounts of data and spend most of my time working on ETLs and AWS infrastructure using Python, multiple AWS products, Spark and Ansible or building UIs and websites."
   email: "ajhauser13@gmail.com"
   phone: "(214) 205-6759"
   linkedin: "https://www.linkedin.com/in/josh-hauser/"
@@ -10,19 +10,21 @@ personal:
 jobs:
   - title: "Full Stack Engineer"
     company: "Talroo"
-    description: "Responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
+    description: "Responsible for maintaining company's data warehouse and creating and maintaining internal and external UIs. Also responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
     accomplishments:
-      - "Test"
-      - "Built a front-end UI for user management and API calls using Javascript, React, Redux, HTML and CSS."
+      - "Engineer responsible for maintaining Talroo's data warehouse, from raw data ETLs all the way to internal and external reporting."
+      - "Fully developed an external website (front-end, back-end, GA tracking, design, etc.)."
+      - "Set up infrastructure for email campaigns for the users aggregated on the site mentioned above using Cordial."
+      - "Built a front-end UI for internal user management using Javascript, React, Redux, HTML and CSS."
       - "Created a version history repository for Databricks ETL jobs using Ansible, GIT, and Databricks."
       - "Created automatic and dynamic system alarms for the engineering department using AWS products (Lambda, SES, Cloudwatch, SNS)."
-      - "Helped maintain the production data warehouse"
       - "Helped build company profiling system and to aggregate behavior data by using AWS products (s3, IAM, DynamoDB)."
       - "Helped with automating much of the company's infrastructure using Cloudformation."
     technologies:
       - "React"
       - "Python"
+      - "Cordial"
       - "Pyspark"
       - "Databricks"
       - "React/Redux"
@@ -88,6 +90,8 @@ skills:
     percent: "100"
   - name: "PySpark"
     percent: "100"
+  - name: "HTML/CSS"
+    percent: "100"
   - name: "SQL"
     percent: "100"
   - name: "AWS"
@@ -100,8 +104,7 @@ skills:
     percent: "70"
   - name: "Ansible"
     percent: "60"
-  - name: "HTML/CSS"
-    percent: "50"
+
 
 others:
   - "Data Analysis"

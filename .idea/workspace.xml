@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7428989e-0770-465a-9cb0-331526b42468" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/configs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,15 +56,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.resume">
-    <configuration name="resume" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.full">
+    <configuration name="full" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ajhaus13.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="/usr/local/bin/python3.6" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -102,12 +102,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.resume" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.full" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.resume" />
+        <item itemvalue="Python.full" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -124,6 +124,7 @@
       <updated>1563976593042</updated>
       <workItem from="1570116000954" duration="643000" />
       <workItem from="1584378850336" duration="269000" />
+      <workItem from="1584381779737" duration="20000" />
     </task>
     <servers />
   </component>
@@ -145,5 +146,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ajhaus13_github_io$resume.coverage" NAME="resume Coverage Results" MODIFIED="1570116194967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ajhaus13_github_io$full.coverage" NAME="full Coverage Results" MODIFIED="1584381796988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

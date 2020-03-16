@@ -82,6 +82,8 @@ jobs:
       - "Microsoft Office"
 
 skills:
+  - name: "React"
+    percent: "100"
   - name: "Python"
     percent: "100"
   - name: "PySpark"

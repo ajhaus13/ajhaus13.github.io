@@ -8,11 +8,12 @@ personal:
   git: "https://github.com/ajhaus13"
 
 jobs:
-  - title: "Data Engineer"
+  - title: "Full Stack Engineer"
     company: "Talroo"
     description: "Responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
     accomplishments:
+      - "Test"
       - "Built a front-end UI for user management and API calls using Javascript, React, Redux, HTML and CSS."
       - "Created a version history repository for Databricks ETL jobs using Ansible, GIT, and Databricks."
       - "Created automatic and dynamic system alarms for the engineering department using AWS products (Lambda, SES, Cloudwatch, SNS)."
@@ -20,6 +21,7 @@ jobs:
       - "Helped build company profiling system and to aggregate behavior data by using AWS products (s3, IAM, DynamoDB)."
       - "Helped with automating much of the company's infrastructure using Cloudformation."
     technologies:
+      - "React"
       - "Python"
       - "Pyspark"
       - "Databricks"

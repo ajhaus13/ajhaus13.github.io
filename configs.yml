@@ -1,7 +1,7 @@
 personal:
   name: "Josh Hauser"
   title: "Full Stack Engineer"
-  summary: "Data Analyst turned Engineer. I enjoy working with large amounts of data and spend most of my time working on ETLs and AWS infrastructure using Python, multiple AWS products, Spark and Ansible or building UIs and websites."
+  summary: "Data Analyst turned Engineer. I enjoy working with large amounts of data and spend most of my time working on ETLs and AWS infrastructure using Python, multiple AWS products, Spark and Ansible or building UIs and websites using React."
   email: "ajhauser13@gmail.com"
   phone: "(214) 205-6759"
   linkedin: "https://www.linkedin.com/in/josh-hauser/"
@@ -14,9 +14,9 @@ jobs:
     duration: "Nov 2018 - Present"
     accomplishments:
       - "Engineer responsible for maintaining Talroo's data warehouse, from raw data ETLs all the way to internal and external reporting."
-      - "Fully developed an external website (front-end, back-end, GA tracking, design, etc.)."
-      - "Set up infrastructure for email campaigns for the users aggregated on the site mentioned above using Cordial."
+      - "Fully developed an external website using React (front-end, back-end, GA tracking, design, etc.)."
       - "Built a front-end UI for internal user management using Javascript, React, Redux, HTML and CSS."
+      - "Set up infrastructure for email campaigns for the users using Cordial."
       - "Created a version history repository for Databricks ETL jobs using Ansible, GIT, and Databricks."
       - "Created automatic and dynamic system alarms for the engineering department using AWS products (Lambda, SES, Cloudwatch, SNS)."
       - "Helped build company profiling system and to aggregate behavior data by using AWS products (s3, IAM, DynamoDB)."
@@ -104,6 +104,8 @@ skills:
     percent: "70"
   - name: "Ansible"
     percent: "60"
+  - name: "AWS CDK"
+    percent: "60"
 
 
 others:
@@ -126,3 +128,4 @@ certs:
 interests:
   - "Guitar"
   - "Piano"
+  - "Violin"

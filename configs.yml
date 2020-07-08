@@ -1,7 +1,7 @@
 personal:
   name: "Josh Hauser"
   title: "Full Stack Engineer"
-  summary: "Data Analyst turned Engineer. I enjoy working with and analyzing large amounts of data. I have experiencing using a number of different languages and technologies across a wide array of products: from maintaining data warehouses with Python and Databricks, to building and maintaining AWS infrastructure using Cloudformation/Ansible and Python CDK, to building UIs and websites using React."
+  summary: "Data Analyst turned Engineer. I enjoy working with and analyzing large amounts of data. I have experience using a number of different languages and technologies across a wide array of products: from maintaining data warehouses with Python and Databricks, to building and maintaining AWS infrastructure using Cloudformation/Ansible and Python CDK, to building UIs and websites using React."
   email: "ajhauser13@gmail.com"
   phone: "(214) 205-6759"
   linkedin: "https://www.linkedin.com/in/josh-hauser/"

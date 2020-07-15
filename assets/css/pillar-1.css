@@ -8716,6 +8716,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .author {
   color: #F7F8FA;
+  text-decoration: none;
 }
 
 @media (max-width: 767.98px) {

@@ -8707,7 +8707,11 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .footer .fa-heart {
-  color: #80425F;
+  color: #F7F8FA;
+}
+
+.copyright {
+  color: #F7F8FA;
 }
 
 @media (max-width: 767.98px) {

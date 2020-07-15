@@ -8714,6 +8714,10 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   color: #F7F8FA;
 }
 
+.author {
+  color: #F7F8FA;
+}
+
 @media (max-width: 767.98px) {
   .resume-wrapper {
     padding-top: 0;

@@ -10,17 +10,18 @@ personal:
 jobs:
   - title: "Full Stack Engineer"
     company: "Talroo"
-    description: "Responsible for maintaining company's data warehouse and creating and maintaining internal and external UIs and websites. Also responsible for creating and maintaining multiple ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
+    description: "Responsible for maintaining company's data warehouse, developing internal and external UIs and websites, implementing ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
     accomplishments:
       - "Engineer responsible for maintaining Talroo's data warehouse, from raw data ETLs all the way to internal and external reporting using Spark, Snowflake, Cluvio and Delta."
       - "Fully developed an external website using React (front-end, back-end, GA tracking, design, APIs, etc.)."
+      - "Responsible for implementing much of the company's AWS infrastructure using CloudFormation, CDK, Lambda, EC2, S3, IAM, CloudWatch, IAM, SNS, SES, etc."
       - "Built a front-end UI for internal user management using Javascript, React, Redux, HTML and CSS."
       - "Set up infrastructure for email campaigns for the users using Cordial."
-      - "Created a version history repository for Databricks ETL jobs using Ansible, GIT, and Databricks."
+      - "Created a version history repository for Databricks ETL jobs using Ansible and GIT."
       - "Developed automatic and dynamic system alarms for the engineering department using AWS products (Lambda, SES, Cloudwatch, SNS)."
       - "Successfully built company profiling system and to aggregate behavior data by using AWS products (s3, IAM, DynamoDB)."
-      - "Implemented much of the company's infrastructure using Cloudformation and Python CDK."
+
       - "Experience working with and querying Amazon RDS databases."
     technologies:
       - "React"
@@ -35,6 +36,7 @@ jobs:
       - "Javascript"
       - "Amazon Web Service Products"
       - "Ansible"
+      - "CloudFormation"
       - "Python CDK"
       - "Django"
       - "HTML/CSS"

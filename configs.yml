@@ -13,9 +13,9 @@ jobs:
     description: "Responsible for maintaining the company's data warehouse, developing internal and external UIs and websites, implementing ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
     accomplishments:
-      - "Engineer responsible for maintaining Talroo's data warehouse, from raw data ETLs all the way to internal and external reporting using Spark, Snowflake, Cluvio and Delta."
-      - "Fully developed an external website using React (front-end, back-end, GA tracking, design, APIs, etc.)."
-      - "Responsible for implementing much of the company's AWS infrastructure using CloudFormation, CDK, Lambda, EC2, S3, IAM, CloudWatch, IAM, SNS, SES, etc."
+      - "Responsible for maintaining the data warehouse, from raw data ETLs to internal and external reporting using Spark, Snowflake, Cluvio and Delta."
+      - "Single-handedly developed an external website using React (front-end, back-end, GA tracking, design, APIs, etc.)."
+      - "Implemented the company's AWS infrastructure using CloudFormation, CDK, Lambda, EC2, S3, IAM, CloudWatch, IAM, SNS, SES, etc."
       - "Built a front-end UI for internal user management using Javascript, React, Redux, HTML and CSS."
       - "Set up infrastructure for email campaigns for the users using Cordial."
       - "Created a version history repository for Databricks ETL jobs using Ansible and GIT."
@@ -46,8 +46,8 @@ jobs:
     description: "Responsible for data aggregation, data analysis and A/B testing and monitoring for CEO, CFO, officers and product managers while learning and transitioning over to an engineering team."
     duration: "Oct 2017 - Nov 2018"
     accomplishments:
-      - "Identified a nuance in company’s search API that was causing a monopoly on API traffic. Fixed the issue, which resulted in +$2.5M in increased yearly revenue (4%)."
-      - "Worked closely with the CEO daily to assess efficacy of current and future tests. Responsible for data pulls and for reporting."
+      - "Increased Talroo's revenue by +$2.5M a year by identifying and fixing a nuance in company’s search API that was causing a monopoly on API traffic."
+      - "Worked closely with the CEO daily to assess efficacy of current and future tests. Responsible for data pulls and for reporting for C-Suite."
     technologies:
       - "Python"
       - "PySpark"
@@ -58,9 +58,9 @@ jobs:
     description: "Responsible for providing technical support to all data analysts. This included building out a reporting platform and working directly with the engineers to fix issues."
     duration: "Jan 2017 - Oct 2017"
     accomplishments:
-      - "Built out and managed company wide reporting platform for all departments."
-      - "Found 100s of millions of failed API calls that was resulting in a very large amount of missed revenue for the company."
-      - "Discovered a bug that was causing double payouts to our affiliate network. Fixed the issue, which increased company's profit significantly."
+      - "Built and managed company wide reporting platform for all departments."
+      - "Identified key issues regarding failed API calls and double payouts, and resolved the issues by working with CEO."
+      - "Responsible for coordinating communication between Engineers and Analysts."
     technologies:
       - "Metabase"
       - "mySQL"

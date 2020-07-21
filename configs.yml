@@ -16,7 +16,7 @@ jobs:
       - "Responsible for maintaining the data warehouse, from raw data ETLs to internal and external reporting using Spark, Snowflake, Cluvio and Delta Lake."
       - "Implemented the company's AWS infrastructure using Lambda, EC2, S3, IAM, CloudWatch, IAM, SNS, SES, etc. Accomplished through CloudFormation and CDK automation, which removed the need to do this manually."
       - "Single-handedly developed an external website using React (front-end, back-end, GA tracking, design, APIs, etc.). Site was used to analyze the efficacy of company wide tests."
-      - "Set up infrastructure for email campaigns for the users using Cordial to create a constant revenue stream from the users that subscribed to the above website."
+      - "Set up infrastructure for email campaigns using Cordial to create a constant revenue stream from the users that subscribed to the above website."
       - "Built a front-end UI for internal user management using Javascript, React, Redux, HTML and CSS to allow the analysts to make complex API calls to manage their accounts efficiently. "
       - "Created a version history repository for Databricks ETL jobs using Ansible and Git, which allowed us to manage our Spark jobs through a Git repository."
       - "Developed automatic and dynamic system alarms for the engineering department using AWS products (Lambda, SES, Cloudwatch, SNS), which allowed the company to receive complex data along with instructions when an alarm was set off."

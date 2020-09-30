@@ -1,6 +1,6 @@
 personal:
   name: "Josh Hauser"
-  title: "Full Stack Engineer"
+  title: "Data Engineer/Full Stack Engineer"
   summary: "Broad experience maintaining data warehouses, applying languages and technologies across multiple products, and analyzing large amounts of data. Highly skilled in Python, Spark, Delta Lake, and Snowflake, building and maintaining AWS infrastructure using CloudFormation/Ansible and Python CDK, and building UIs and websites using React. Hands on experience as a Data Analyst."
   email: "ajhauser13@gmail.com"
   phone: "(214) 205-6759"
@@ -8,7 +8,7 @@ personal:
   git: "https://github.com/ajhaus13"
 
 jobs:
-  - title: "Full Stack Engineer"
+  - title: "Data Engineer/Full Stack Engineer"
     company: "Talroo"
     description: "Responsible for maintaining the company's data warehouse, developing internal and external UIs and websites, implementing ETLs and working with AWS to automate much of the company's infrastructure and monitoring."
     duration: "Nov 2018 - Present"
@@ -37,7 +37,7 @@ jobs:
       - "Django"
       - "HTML/CSS"
       - "Jinja"
-  - title: "Technical Lead & Associate Developer"
+  - title: "Technical Lead & Associate Data Engineer"
     company: "Talroo"
     description: "Responsible for data aggregation, data analysis and A/B testing and monitoring for CEO, CFO, officers and product managers while learning and transitioning over to an engineering team."
     duration: "Oct 2017 - Nov 2018"
@@ -49,7 +49,7 @@ jobs:
       - "Spark"
       - "mySQL"
       - "Command Line"
-  - title: "Technical Analyst"
+  - title: "Technical Analyst/Data Analyst"
     company: "Talroo"
     description: "Responsible for providing technical support to all data analysts. This included building out a reporting platform and working directly with the engineers to fix issues."
     duration: "Jan 2017 - Oct 2017"

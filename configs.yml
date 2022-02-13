@@ -15,8 +15,8 @@ jobs:
     accomplishments:
       - "First engineer hired in Austin to build out Austin-based engineering team."
       - "Managed migration of pipelines during company's transition of file storage protocol."
-      - "Worked on multiple company privacy projects in order to ensure that data was secure and was being accessed correctly."
-      - "Worked closely with manager across multiple different teams in order to provide support to high priority areas and projects."
+      - "Worked on company privacy projects in order to ensure data security."
+      - "Worked closely with manager across multiple teams and projects in order to provide support to high priority areas and projects."
     technologies:
       - "Python"
       - "SQL"

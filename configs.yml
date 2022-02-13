@@ -1,6 +1,6 @@
 personal:
   name: "Josh Hauser"
-  title: "Data Engineer/Full Stack Engineer"
+  title: "Data Engineer"
   summary: "Broad experience maintaining data warehouses, applying languages and technologies across multiple products, and analyzing large amounts of data. Highly skilled in Python, Spark, Delta Lake, and Snowflake, building and maintaining AWS infrastructure using CloudFormation/Ansible and Python CDK, and building UIs and websites using React. Hands on experience as a Data Analyst."
   email: "ajhauser13@gmail.com"
   phone: "(214) 205-6759"
@@ -9,8 +9,8 @@ personal:
 
 jobs:
   - title: "Data Engineer"
-    company: "Facebook"
-    description: "Responsible for building and maintaining multiple data pipelines across a variety of different teams at Facebook."
+    company: "Meta"
+    description: "Responsible for building and maintaining multiple data pipelines across a variety of different teams at Meta."
     duration: "Nov 2020 - Present"
     accomplishments:
       - "First engineer hired in Austin to build out Austin-based engineering team."
@@ -20,8 +20,6 @@ jobs:
     technologies:
       - "Python"
       - "SQL"
-      - "Tableau"
-      - "Unidash"
       - "Jinja"
   - title: "Data Engineer/Full Stack Engineer"
     company: "Talroo"

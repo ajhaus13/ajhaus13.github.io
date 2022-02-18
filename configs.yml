@@ -16,7 +16,7 @@ jobs:
       - "First engineer hired in Austin to build out Austin-based engineering team."
       - "Managed migration of pipelines during company's transition of file storage protocol."
       - "Ensured data security for company privacy projects."
-      - "Provided support to multiple managers across teams on high priority projects "
+      - "Provided support to multiple managers across teams on high priority projects."
     technologies:
       - "Python"
       - "SQL"

@@ -14,8 +14,9 @@ jobs:
     duration: "Nov 2020 - Nov 2022"
     accomplishments:
       - "First engineer hired in Austin to build out Austin-based engineering team."
+      - "Worked with very large amounts of data and pipelines for products that brought in billions in yearly revenue."
       - "Managed migration of pipelines during company's transition of file storage protocol."
-      - "Ensured data security for company privacy projects."
+      - "Ensured data security for a number of company privacy projects."
       - "Provided support to multiple managers across teams on high priority projects."
     technologies:
       - "Python"

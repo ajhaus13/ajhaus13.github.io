@@ -10,8 +10,8 @@ personal:
 jobs:
   - title: "Data Engineer"
     company: "Meta"
-    description: "Responsible for building and maintaining multiple data pipelines across a variety of different teams at Meta."
-    duration: "Nov 2020 - Present"
+    description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta."
+    duration: "Nov 2020 - Nov 2022"
     accomplishments:
       - "First engineer hired in Austin to build out Austin-based engineering team."
       - "Managed migration of pipelines during company's transition of file storage protocol."

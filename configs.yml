@@ -13,12 +13,12 @@ jobs:
     description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta (Instagram, Marketplace, Targeted Ad Campaigns, etc.)."
     duration: "Nov 2020 - Nov 2022"
     accomplishments:
-      - "First engineer hired in Austin to build out Austin-based engineering team."
       - "Implemented and maintained products that brought in billions in annual revenue."
-      - "Onboarded and trained new engineers across various teams."
       - "Managed migration of pipelines during company's transition of file storage protocol."
       - "Ensured data security for a number of company privacy projects."
       - "Provided support to multiple managers across teams on high priority projects with huge amounts of data."
+      - "First engineer hired in Austin to build out Austin-based engineering team."
+      - "Onboarded and trained new engineers across various teams."
     technologies:
       - "Python"
       - "SQL"

@@ -10,12 +10,12 @@ personal:
 jobs:
   - title: "Data Engineer"
     company: "Meta"
-    description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta."
+    description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta (Instagram, Marketplace, Targeted Ad Campaigns, etc.)."
     duration: "Nov 2020 - Nov 2022"
     accomplishments:
       - "First engineer hired in Austin to build out Austin-based engineering team."
-      - "Involved in the implementation and maintenance of products that brought in billions in yearly revenue."
-      - "Provided oncall and onboarding training to new engineers."
+      - "Implemented and maintained products that brought in billions in annual revenue."
+      - "Onboarded and trained new engineers across various teams."
       - "Managed migration of pipelines during company's transition of file storage protocol."
       - "Ensured data security for a number of company privacy projects."
       - "Provided support to multiple managers across teams on high priority projects with huge amounts of data."
@@ -57,7 +57,7 @@ jobs:
     description: "Responsible for data aggregation, data analysis and A/B testing and monitoring for CEO, CFO, officers and product managers while learning and transitioning over to an engineering team."
     duration: "Oct 2017 - Nov 2018"
     accomplishments:
-      - "Increased Talroo's revenue by +$2.5M a year by identifying and fixing a nuance in company’s search API that was causing a monopoly on API traffic."
+      - "Identified and fixed issue in company's search API increasing company's overall revenue by +$2.5M a year."
       - "Worked closely with the CEO daily to assess efficacy of current and future tests. Responsible for data pulls and for reporting for C-Suite."
     technologies:
       - "Python"
@@ -66,7 +66,7 @@ jobs:
       - "Command Line"
   - title: "Technical Analyst/Data Analyst"
     company: "Talroo"
-    description: "Responsible for providing technical support to all data analysts. This included building out a reporting platform and working directly with the engineers to fix issues."
+    description: "Responsible for providing technical support to all data analysts by building and maintaining a reporting platform and working directly with the engineers to fix issues."
     duration: "Jan 2017 - Oct 2017"
     accomplishments:
       - "Built and managed company wide reporting platform for all departments."
@@ -78,7 +78,7 @@ jobs:
       - "Command Line"
   - title: "Data Analyst & Technical Coordinator"
     company: "Northwestern Mutual"
-    description: "Responsible for creating holistic financial plans for all types of individuals using multiple products (investments, insurance, annuities, etc.)."
+    description: "Provided real-time technological support, including system administration, setting up employees on all NM platforms, launching new software/techniques, network support, troubleshooting, etc."
     duration: "Jan 2016 - Sep 2016"
     accomplishments:
       - "Analyzed and improved the investment accounts of all clients assessing if their current allocation aligned with their investment and retirement goals (using Morningstar)"

@@ -1,7 +1,7 @@
 personal:
   name: "Josh Hauser"
   title: "Data Engineer"
-  summary: "Broad experience maintaining data warehouses, applying languages and technologies across multiple products, and analyzing large amounts of data. Highly skilled in Python, Spark, Delta Lake, and Snowflake, building and maintaining AWS infrastructure using CloudFormation/Ansible and Python CDK, and building UIs and websites using React. Hands on experience as a Data Analyst."
+  summary: "Broad experience maintaining data warehouses, applying languages and technologies across multiple products, and analyzing large amounts of data. Highly skilled in Python, Spark, Delta Lake, and Snowflake, building and maintaining AWS infrastructure using CloudFormation/Ansible and Python CDK, and building UIs and websites using React. Experience working in an Agile environment. Hands on experience as a Data Analyst."
   email: "ajhauser13@gmail.com"
   phone: "(214) 205-6759"
   linkedin: "https://www.linkedin.com/in/josh-hauser/"
@@ -53,6 +53,7 @@ jobs:
       - "Django"
       - "HTML/CSS"
       - "Jinja"
+      - "Agile"
   - title: "Technical Lead & Associate Data Engineer"
     company: "Talroo"
     description: "Responsible for data aggregation, data analysis and A/B testing and monitoring for CEO, CFO, officers and product managers while learning and transitioning over to an engineering team."

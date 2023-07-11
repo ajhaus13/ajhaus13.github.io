@@ -6,5 +6,5 @@ ENVIRONMENT = Environment(
 )
 
 with open("index.html", "w") as html:
-    output = ENVIRONMENT.get_template('template.html').render(yaml.load(open('configs.yml')))
+    output = ENVIRONMENT.get_template('template.html').render(yaml.load(open('configs.yml'),Loader=yaml.Loader))
     html.write(output)

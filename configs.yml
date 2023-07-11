@@ -23,6 +23,8 @@ jobs:
       - "Python"
       - "SQL"
       - "Jinja"
+      - "Presto"
+      - "Hive"
   - title: "Data Engineer/Full Stack Engineer"
     company: "Talroo"
     description: "Responsible for maintaining the company's data warehouse, developing internal and external UIs and websites, implementing ETLs and working with AWS to automate much of the company's infrastructure and monitoring."

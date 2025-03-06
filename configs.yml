@@ -8,6 +8,14 @@ personal:
   git: "https://github.com/ajhaus13"
 
 jobs:
+  - title: "Senior Lead Data Engineer"
+    company: "GovCIO/Celeress"
+    description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta (Instagram, Marketplace, Targeted Ad Campaigns, etc.)."
+    duration: "September 2023 - Present"
+    accomplishments:
+      -
+    technologies:
+      - "Test"
   - title: "Data Engineer"
     company: "Meta"
     description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta (Instagram, Marketplace, Targeted Ad Campaigns, etc.)."

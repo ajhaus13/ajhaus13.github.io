@@ -10,12 +10,20 @@ personal:
 jobs:
   - title: "Senior Lead Data Engineer"
     company: "GovCIO/Celeress"
-    description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta (Instagram, Marketplace, Targeted Ad Campaigns, etc.)."
+    description: "Responsible for building data products for multiple government agencies. Led multiple teams, from coordination of work to training individual members."
     duration: "September 2023 - Present"
     accomplishments:
-      -
+      - "Built pipelines to deliver service connected disability and caregiver data to the DMDC (Defense Manpower Data Center). This data was used to admit veterans into treatment facility to receive care."
+      - "Built military occupational data and identity correlation datasets used throughout the government."
+      - "Led a team of 6 members, including product owners, data analysts and QA engineers."
+      - "Mentored and trained teammates from Data Analyst to Data Engineer to fill gap when transitioning to another team's Lead Data Engineer."
+      - "Managed support tickets, built new data pipelines, troubleshot bug fixes, etc."
     technologies:
-      - "Test"
+      - "Azure"
+      - "Python"
+      - "Spark"
+      - "SQL"
+      - "Databricks"
   - title: "Data Engineer"
     company: "Meta"
     description: "Responsible for building, maintaining and troubleshooting multiple data pipelines across a variety of different teams and different products at Meta (Instagram, Marketplace, Targeted Ad Campaigns, etc.)."
@@ -88,30 +96,7 @@ jobs:
       - "Metabase"
       - "mySQL"
       - "Command Line"
-  - title: "Data Analyst & Technical Coordinator"
-    company: "Northwestern Mutual"
-    description: "Provided real-time technological support, including system administration, setting up employees on all NM platforms, launching new software/techniques, network support, troubleshooting, etc."
-    duration: "Jan 2016 - Sep 2016"
-    accomplishments:
-      - "Analyzed and improved the investment accounts of all clients assessing if their current allocation aligned with their investment and retirement goals (using Morningstar)"
-      - "Managed and assessed all client case work options based on their financial portfolio for CEO"
-      - "Provided real-time technological support, including; system administration, setting up employees on all NM platforms, launching new software/techniques, network support, troubleshooting, etc."
-    technologies:
-      - "MorningStar"
-      - "Microsoft Office"
-  - title: "Data Analyst & International Regional Manager"
-    company: "iCracked Inc."
-    description: "Responsible for managing a team of domestic and international technicians. Provided both technical and statistical support to increase profitability."
-    duration: "Jan 2014 - May 2015"
-    accomplishments:
-      - "Implemented a regional pricing elasticity program, which increased both contractor and company profits by up to 300%."
-      - "Utilized data management software to analyze customer demand and pricing structures for sales promotions, increasing sales by up to 90% over two-week periods."
-      - "Responsible for building out setting up department infrastructure and running cost/benefit analyses for potential department changes."
-      - "Calculated and delivered market specific analyses to contractors, which produced the highest regional growth rate, increasing regional sales by 145% (compared to a 74% average for other Regional Managers) in just 9 months and increasing month over month revenue by over $85,000."
-    technologies:
-      - "Tableau"
-      - "HTML/CSS"
-      - "Microsoft Office"
+
 
 skills:
   - name: "Python"

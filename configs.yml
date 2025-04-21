@@ -9,10 +9,12 @@ personal:
 
 jobs:
   - title: "Senior Lead Data Engineer"
-    company: "GovCIO/Celeress"
+    company: "GovCIO"
     description: "Responsible for building data products for multiple government agencies. Led multiple teams, from coordination of work to training individual members."
     duration: "September 2023 - Present"
     accomplishments:
+      - "Supported a wide array of products during governmental contract transitions as the only remaining data engineer."
+      - "Worked on production support to keep the lights on during contract transitions."
       - "Built pipelines to deliver service connected disability and caregiver data to the DMDC (Defense Manpower Data Center). This data was used to admit veterans into treatment facility to receive care."
       - "Built military occupational data and identity correlation datasets used throughout the government."
       - "Led a team of 6 members, including product owners, data analysts and QA engineers."

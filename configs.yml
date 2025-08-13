@@ -13,8 +13,8 @@ jobs:
     description: "Responsible for building data products for multiple government agencies. Led multiple teams, from coordination of work to training individual members."
     duration: "September 2023 - Present"
     accomplishments:
+      - "Responsible for onboarding and training new engineers as well as production support."
       - "Supported a wide array of products during governmental contract transitions as the only remaining data engineer."
-      - "Worked on production support to keep the lights on during contract transitions."
       - "Built pipelines to deliver service connected disability and caregiver data to the DMDC (Defense Manpower Data Center). This data was used to admit veterans into treatment facility to receive care."
       - "Built military occupational data and identity correlation datasets used throughout the government."
       - "Led a team of 6 members, including product owners, data analysts and QA engineers."
@@ -74,10 +74,10 @@ jobs:
       - "HTML/CSS"
       - "Jinja"
       - "Agile"
-  - title: "Technical Lead & Associate Data Engineer"
+  - title: "Technical Lead/Associate Data Engineer"
     company: "Talroo"
     description: "Responsible for data aggregation, data analysis and A/B testing and monitoring for CEO, CFO, officers and product managers while learning and transitioning over to an engineering team."
-    duration: "Oct 2017 - Nov 2018"
+    duration: "Oct 2015 - Nov 2018"
     accomplishments:
       - "Identified and fixed issue in company's search API increasing company's overall revenue by +$2.5M a year."
       - "Worked closely with the CEO daily to assess efficacy of current and future tests. Responsible for data pulls and for reporting for C-Suite."
@@ -86,19 +86,6 @@ jobs:
       - "Spark"
       - "mySQL"
       - "Command Line"
-  - title: "Technical Analyst/Data Analyst"
-    company: "Talroo"
-    description: "Responsible for providing technical support to all data analysts by building and maintaining a reporting platform and working directly with the engineers to fix issues."
-    duration: "Jan 2017 - Oct 2017"
-    accomplishments:
-      - "Built and managed company wide reporting platform for all departments."
-      - "Identified key issues regarding failed API calls and double payouts, and resolved the issues by working with CEO."
-      - "Responsible for coordinating communication between Engineers and Analysts."
-    technologies:
-      - "Metabase"
-      - "mySQL"
-      - "Command Line"
-
 
 skills:
   - name: "Python"

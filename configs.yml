@@ -13,7 +13,8 @@ jobs:
     description: "Responsible for building data products for multiple government agencies. Led multiple teams, from coordination of work to training individual members."
     duration: "September 2023 - Present"
     accomplishments:
-      - "Responsible for onboarding and training new engineers as well as production support."
+      - "Responsible for product support, which included handling all high priority request and bug fixes."
+      - "Responsible for onboarding and training new engineers."
       - "Supported a wide array of products during governmental contract transitions as the only remaining data engineer."
       - "Built pipelines to deliver service connected disability and caregiver data to the DMDC (Defense Manpower Data Center). This data was used to admit veterans into treatment facility to receive care."
       - "Built military occupational data and identity correlation datasets used throughout the government."
